@@ -41,7 +41,8 @@
 | 🏙️ **Base**              | Jakarta, Indonesia                            |
 | 🎯 **Level**              | Beginner                                      |
 | 🧪 **Currently learning** | Go, REST API, PostgreSQL, Backend Development |
-| 🍵 **Fuel**               | Matcha                                        |
+| 🍵 **Fuel**                | Matcha                                        |
+| 🌌 **Interests**          | DC Comics, Astronomy & Geology                |
 | 💼 **Status**             | Open to collaborate                           |
 
 </td><td width="45%" valign="top">
@@ -74,16 +75,11 @@ func main() {
 
 **Contact**
 
-
-
-<img src="./pixel-divider.svg" width="100%" alt=""/>
-
-## 🎮 HOBBIES & INTERESTS
-
-* 🦸 **DC Comics**
-* 🌌 **Astrophile** — astronomy & the universe
-* 🌍 **Earth & Geological History**
-* 🍵 **Matcha**
+```text
+email    : mhanif091003@gmail.com
+website  :
+timezone : GMT+7 (WIB)
+```
 
 <img src="./pixel-divider.svg" width="100%" alt=""/>
 
@@ -130,6 +126,16 @@ Projects I'm currently working on:
 * 📚 Currently reading:
 
 </details>
+
+<img src="./pixel-divider.svg" width="100%" alt=""/>
+
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anipnipnip&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Trophy"/>
+
+</div>
 
 <img src="./pixel-divider.svg" width="100%" alt=""/>
 
