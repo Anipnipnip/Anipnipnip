@@ -133,16 +133,6 @@ Projects I'm currently working on:
 
 <img src="./pixel-divider.svg" width="100%" alt=""/>
 
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anipnipnip&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Trophy"/>
-
-</div>
-
-<img src="./pixel-divider.svg" width="100%" alt=""/>
-
 ## 📊 STATS
 
 <div align="center">
