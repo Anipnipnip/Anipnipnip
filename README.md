@@ -1,9 +1,21 @@
+<!--
+  ============================================================
+  GITHUB PROFILE README - 8-BIT THEME (Backend Developer)
+  Replace: USERNAME, your name, email, social links, project names.
+  SVG files that must be uploaded to the repository root:
+    superman-8bit-flying.svg   -> top banner
+    pixel-divider.svg         -> divider
+    skill-bars.svg            -> skill panel
+    footer-8bit.svg           -> footer
+  ============================================================
+-->
+
 <div align="center">
 
-<img src="./superman-8bit-flying.svg" width="100%" alt="Pixel hero terbang 8-bit"/>
+<img src="./superman-8bit-flying.svg" width="100%" alt="8-bit flying pixel hero"/>
 
 <a href="https://github.com/Anipnipnip">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00ADD8&center=true&vCenter=true&width=680&lines=Halo%2C+aku+Muhammad+Fauzan+Hanif!;Backend+Developer+%7C+Golang+Enthusiast;Lagi+belajar+dan+ngembangin+backend;Go+%3E+callback+hell" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00ADD8&center=true&vCenter=true&width=680&lines=Hello%2C+I'm+Muhammad+Fauzan+Hanif!;Backend+Developer+%7C+Golang+Enthusiast;Building+and+learning+backend+systems;Go+%3E+callback+hell" alt="Typing SVG"/>
 </a>
 
 <p>
@@ -21,29 +33,29 @@
 <table>
 <tr><td width="55%" valign="top">
 
-| Atribut             | Nilai                                         |
-| :------------------ | :-------------------------------------------- |
-| 👤 **Nama**         | Muhammad Fauzan Hanif                         |
-| ⚔️ **Class**        | Backend Developer                             |
-| 🐹 **Main weapon**  | Go (Golang)                                   |
-| 🏙️ **Base**        | Jakarta, Indonesia                            |
-| 🎯 **Level**        | Beginner                                      |
-| 🧪 **Lagi belajar** | Go, REST API, PostgreSQL, Backend Development |
-| ☕ **Bahan bakar**   | Kopi susu + lo-fi                             |
-| 💼 **Status**       | Open to collaborate                           |
+| Attribute                 | Value                                         |
+| :------------------------ | :-------------------------------------------- |
+| 👤 **Name**               | Muhammad Fauzan Hanif                         |
+| ⚔️ **Class**              | Backend Developer                             |
+| 🐹 **Main weapon**        | Go (Golang)                                   |
+| 🏙️ **Base**              | Jakarta, Indonesia                            |
+| 🎯 **Level**              | Beginner                                      |
+| 🧪 **Currently learning** | Go, REST API, PostgreSQL, Backend Development |
+| 🍵 **Fuel**               | Matcha                                        |
+| 💼 **Status**             | Open to collaborate                           |
 
 </td><td width="45%" valign="top">
 
-**Misi saat ini**
+**Current Mission**
 
 ```go
 package main
 
 type Developer struct {
-    Name   string
-    Role   string
-    Stack  []string
-    Focus  string
+    Name     string
+    Role     string
+    Stack    []string
+    Focus    string
 }
 
 func main() {
@@ -60,7 +72,7 @@ func main() {
 </td></tr>
 </table>
 
-**Cara menghubungi**
+**Contact**
 
 ```text
 email    : mhanif091003@gmail.com
@@ -70,42 +82,56 @@ timezone : GMT+7 (WIB)
 
 <img src="./pixel-divider.svg" width="100%" alt=""/>
 
+## 🎮 HOBBIES & INTERESTS
+
+* 🦸 **DC Comics**
+* 🌌 **Astrophile** — astronomy & the universe
+* 🌍 **Earth & Geological History**
+* 🍵 **Matcha**
+
+<img src="./pixel-divider.svg" width="100%" alt=""/>
+
 ## ⚔️ SKILL STATUS
 
 <div align="center">
 
-<img src="./skill-bars.svg" width="100%" alt="Skill status bar 8-bit"/>
+<img src="./skill-bars.svg" width="100%" alt="8-bit skill status bar"/>
 
 </div>
 
-**Tools & Teknologi**
+**Tools & Technologies**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=go,nodejs,express,mysql,postgres,mongodb,postman,gcp&theme=dark" alt="Main stack"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,nginx&theme=dark" alt="Tools"/>
 </div>
+
+> Replace the icons in `i=` with your actual skills. See the complete list at [skillicons.dev](https://skillicons.dev).
 
 <img src="./pixel-divider.svg" width="100%" alt=""/>
 
 ## 📜 QUEST LOG
 
-Proyek yang pernah dan sedang dikerjakan:
+Projects I'm currently working on:
 
-| Quest                   | Deskripsi                    | Stack             | Status    |
-| :---------------------- | :--------------------------- | :---------------- | :-------- |
-| **Klain Rasa**          | Website pemesanan untuk kafe | `MERN` `Midtrans` | 🟢 Active |
-| **Kasir Go**            | REST API sistem kasir        | `Go` `PostgreSQL` | 🟡 WIP    |
-| **Assessment Kumparan** | REST API artikel             | `Go` `PostgreSQL` | 🟢 Active |
+| Quest                   | Description             | Stack             | Status    |
+| :---------------------- | :---------------------- | :---------------- | :-------- |
+| **Klain Rasa**          | Cafe ordering website   | `MERN` `Midtrans` | 🟢 Active |
+| **Kasir Go**            | Cashier system REST API | `Go` `PostgreSQL` | 🟡 WIP    |
+| **Kumparan Assessment** | Article REST API        | `Go` `PostgreSQL` | 🟢 Active |
+| **nama-proyek-4**       |                         |                   | ⚪ Planned |
 
 <details>
-<summary><b>🗝️ Side Quest — klik buat buka</b></summary>
+<summary><b>🗝️ Side Quest — click to open</b></summary>
 
 <br/>
 
-* 🌱 Belajar backend development menggunakan Go
-* 🧪 Eksperimen dengan REST API dan PostgreSQL
-* 📚 Mempelajari konsep backend dan software development
+* 📝 Write articles about Go & backend
+* 🌱 Contribute to Go open-source libraries
+* 🧪 Experiment with concurrency patterns & benchmarks
+* 🎤 Occasionally speak at local meetups
+* 📚 Currently reading:
 
 </details>
 
@@ -146,13 +172,14 @@ Proyek yang pernah dan sedang dikerjakan:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mfauzhanif)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/zhanipp)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/zanhanhan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhanif091003@gmail.com)
+[![Website](https://img.shields.io/badge/Website-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)]()
 
 </div>
 
 <img src="./footer-8bit.svg" width="100%" alt="Footer 8-bit"/>
 
 <div align="center">
-<sub>Kalau ada repo yang kepake, jangan lupa kasih ⭐ ya!</sub>
+<sub>If you find a useful repo, don't forget to leave a ⭐!</sub>
 </div>
