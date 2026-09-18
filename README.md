@@ -74,11 +74,7 @@ func main() {
 
 **Contact**
 
-```text
-email    : mhanif091003@gmail.com
-website  :
-timezone : GMT+7 (WIB)
-```
+
 
 <img src="./pixel-divider.svg" width="100%" alt=""/>
 
